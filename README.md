@@ -1,0 +1,2 @@
+# OFFSETS CSGO 
+ OFFSETS CSGO em C++
